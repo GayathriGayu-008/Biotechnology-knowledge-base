@@ -1,0 +1,16 @@
+# Biotechnology Search Application Dependencies
+
+# Web Framework
+Flask==3.0.0
+
+# HTTP Requests
+requests==2.31.0
+
+# For NCBI E-utilities (optional, but recommended)
+# biopython==1.83
+
+# For JSON handling (included with Python)
+# json (built-in)
+
+# For URL encoding (included with Python)  
+# urllib (built-in)
